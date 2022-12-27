@@ -18,14 +18,13 @@
         "imgbannerurl" : "https://www.google.com"
 		
       },
-	  "BUTTTON_NAME" : "START" ,
-	  "BUTTON_URL" :"https://www.google.com/"
-	  
-	  
+	 
 
-   
 
        
   }
 	
+	"BUTTTON_NAME" : "ST" ,
+	"BUTTON_URL" :"https://www.google.com/"
+	  
 }
