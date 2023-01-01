@@ -14,7 +14,7 @@
         "nativefb": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
         "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
-        "whichPage": 0,
+        "imagebanner": false,
         "imgbannerimg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "imgbannerurl" : "https://www.google.com"
 		
