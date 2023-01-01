@@ -19,7 +19,7 @@
         "imgbannerurl" : "https://www.google.com"
 		
       },
-	  "BUTTTON_NAME" : "START" ,
+	  "whichPage" : "1" ,
 	  "BUTTON_URL" :"https://www.google.com/"
 	  
 	  
